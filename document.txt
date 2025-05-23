@@ -1,0 +1,20 @@
+1.  create a package.json file - npm init -y
+2.  install nodemon - npm i nodemon
+3.  install express - npm i express
+4.  install mongoose - npm i mongoose
+5.  install dotenv - npm i dotenv
+6.  install cors - npm i cors
+7.  install jsonwebtoken - npm i jsonwebtoken
+8.  install bcryptjs - npm i bcryptjs
+9.  install colors - npm i colors
+10.  install multer - npm i multer
+11.  install cloudinary - npm i cloudinary
+12.  install morgan - npm i morgan
+13.  install cookie-parser - npm i cookie-parser
+14.  install slugify - npm i slugify
+15.  install slugify - npm i http-errors
+
+
+morgan - client সাইট থেকে আসা প্রতিটি HTTP request বিস্তারিত দেখা যায়।
+cookie-parser - এটি user authentication, session management ও security উন্নত করতে সাহায্য করে।
+jsonwebtoken - (JWT) হল একটি token-based authentication সিস্টেম
